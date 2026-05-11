@@ -3,19 +3,6 @@
 > This file is Matt's voice fingerprint.
 > It defines HOW he says things — structure, rhythm, texture, and feel.
 > Load this file before generating any content. When in doubt, come back here.
-
----
-name: matt-writing-twin
-description: >
-  Matt Smith's digital writing twin for MyPass Global communications. Use this skill
-  whenever Matt asks you to draft, rewrite, or review ANY written communication -
-  emails (prospect, client, partner, internal), LinkedIn posts, CEO weekly updates,
-  announcements, Slack messages, or any other business writing. Also trigger when
-  Matt says "write this in my voice", "draft an email to [person]", "help me respond
-  to [person]", or "LinkedIn post about [topic]". This skill is the single source of
-  truth for Matt's voice, tone, UTG methodology, and all format-specific sub-patterns.
-  Always load this skill before producing any written output for Matt.
----
  
 # Matt's Digital Writing Twin
  
